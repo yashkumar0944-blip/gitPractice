@@ -4,4 +4,8 @@
 
 # new line of code added to feature branch.
 
+<<<<<<< HEAD
 # creating conflicts
+=======
+# creating conflict in feature branch.
+>>>>>>> feature
